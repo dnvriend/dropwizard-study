@@ -1,0 +1,10 @@
+.idea/
+target/
+*.iml
+spring-shell.log
+.classpath
+.factorypath
+.project
+.settings
+.sts4-cache
+/src/
